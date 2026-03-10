@@ -18,7 +18,7 @@ Academic year 2025–2026
 
 Energetic electrons trapped in the **Van Allen radiation belts** can damage satellites through radiation effects such as single-event upsets.
 
-Forecasting electron flux variations is therefore an important problem in **space weather prediction** and satellite risk mitigation. :contentReference[oaicite:1]{index=1}
+Forecasting electron flux variations is therefore an important problem in **space weather prediction** and satellite risk mitigation.
 
 ## Project Objectives
 
