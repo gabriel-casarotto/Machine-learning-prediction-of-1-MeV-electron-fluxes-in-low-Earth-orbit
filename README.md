@@ -1,3 +1,4 @@
+![alt image](https://github.com/gabriel-casarotto/Machine-learning-prediction-of-1-MeV-electron-fluxes-in-low-Earth-orbit/blob/main/atmosphere%20hole.png?raw=true)
 # Prediction of 1 MeV Electron Fluxes in Low Earth Orbit
 
 This repository contains the implementation of a data-driven pipeline developed for the IPSA course **SP-519 – Space Data Processing**.
@@ -129,5 +130,3 @@ Possible extensions include:
 ## Academic Project
 
 This project was completed as part of the **SP-519: Space Data Processing course at IPSA**.
-
-![alt image](https://github.com/gabriel-casarotto/Machine-learning-prediction-of-1-MeV-electron-fluxes-in-low-Earth-orbit/blob/main/atmosphere%20hole.png?raw=true)
